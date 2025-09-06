@@ -1,0 +1,15 @@
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\ANDON_Application.csproj.AssemblyReference.cache
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\ANDON_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\ANDON_Application.AssemblyInfoInputs.cache
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\ANDON_Application.AssemblyInfo.cs
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\ANDON_Application.csproj.CoreCompileInputs.cache
+D:\Backend\ANDON\ANDON_Application\bin\Debug\net8.0\ANDON_Application.deps.json
+D:\Backend\ANDON\ANDON_Application\bin\Debug\net8.0\ANDON_Application.dll
+D:\Backend\ANDON\ANDON_Application\bin\Debug\net8.0\ANDON_Application.pdb
+D:\Backend\ANDON\ANDON_Application\bin\Debug\net8.0\ANDON_Domain.dll
+D:\Backend\ANDON\ANDON_Application\bin\Debug\net8.0\ANDON_Domain.pdb
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\ANDON_Ap.31AC6B9F.Up2Date
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\ANDON_Application.dll
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\refint\ANDON_Application.dll
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\ANDON_Application.pdb
+D:\Backend\ANDON\ANDON_Application\obj\Debug\net8.0\ref\ANDON_Application.dll

@@ -1,0 +1,17 @@
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\ANDON_Infrastructure.csproj.AssemblyReference.cache
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\ANDON_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\ANDON_Infrastructure.AssemblyInfoInputs.cache
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\ANDON_Infrastructure.AssemblyInfo.cs
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\ANDON_Infrastructure.csproj.CoreCompileInputs.cache
+D:\Backend\ANDON\ANDON_Infrastructure\bin\Release\net8.0\ANDON_Infrastructure.deps.json
+D:\Backend\ANDON\ANDON_Infrastructure\bin\Release\net8.0\ANDON_Infrastructure.dll
+D:\Backend\ANDON\ANDON_Infrastructure\bin\Release\net8.0\ANDON_Infrastructure.pdb
+D:\Backend\ANDON\ANDON_Infrastructure\bin\Release\net8.0\ANDON_Application.dll
+D:\Backend\ANDON\ANDON_Infrastructure\bin\Release\net8.0\ANDON_Domain.dll
+D:\Backend\ANDON\ANDON_Infrastructure\bin\Release\net8.0\ANDON_Application.pdb
+D:\Backend\ANDON\ANDON_Infrastructure\bin\Release\net8.0\ANDON_Domain.pdb
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\ANDON_In.C3CB22FD.Up2Date
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\ANDON_Infrastructure.dll
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\refint\ANDON_Infrastructure.dll
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\ANDON_Infrastructure.pdb
+D:\Backend\ANDON\ANDON_Infrastructure\obj\Release\net8.0\ref\ANDON_Infrastructure.dll

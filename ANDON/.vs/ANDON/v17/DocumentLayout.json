@@ -1,0 +1,873 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\ANDON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|d:\\backend\\andon\\andon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|solutionrelative:andon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|d:\\backend\\andon\\andon\\controllers\\defect\\defectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|solutionrelative:andon\\controllers\\defect\\defectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|d:\\backend\\andon\\andon_infrastructure\\repository\\defect\\defectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|solutionrelative:andon_infrastructure\\repository\\defect\\defectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|d:\\backend\\andon\\andon_infrastructure\\repository\\routes\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|solutionrelative:andon_infrastructure\\repository\\routes\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|d:\\backend\\andon\\andon_infrastructure\\repository\\auth\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|solutionrelative:andon_infrastructure\\repository\\auth\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\consts\\routerpublic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\consts\\routerpublic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|d:\\backend\\andon\\andon_infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|solutionrelative:andon_infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|d:\\backend\\andon\\andon\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|solutionrelative:andon\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|d:\\backend\\andon\\andon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|solutionrelative:andon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|d:\\backend\\andon\\andon_infrastructure\\token\\jwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|solutionrelative:andon_infrastructure\\token\\jwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\consts\\appjwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\consts\\appjwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\interface\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\interface\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|d:\\backend\\andon\\andon\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|solutionrelative:andon\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\mapper\\auth\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\mapper\\auth\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\interface\\idefectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\interface\\idefectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\interface\\ijwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\interface\\ijwtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|d:\\backend\\andon\\andon\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|solutionrelative:andon\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\model\\routeerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\model\\routeerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\dto\\routedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\dto\\routedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\service\\routes\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\service\\routes\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|d:\\backend\\andon\\andon\\controllers\\routes\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|solutionrelative:andon\\controllers\\routes\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\interface\\routes\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\interface\\routes\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\interface\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\interface\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\mapper\\routes\\routeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\mapper\\routes\\routeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\dto\\routeerrordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\dto\\routeerrordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\mapper\\defect\\defectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\mapper\\defect\\defectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\model\\defectinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\model\\defectinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|d:\\backend\\andon\\andon\\andon.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|solutionrelative:andon\\andon.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\service\\defect\\defectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\service\\defect\\defectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\entities\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\entities\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\interface\\defect\\idefectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\interface\\defect\\idefectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\dto\\defectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\dto\\defectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\dto\\defectinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\dto\\defectinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\dto\\defectupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\dto\\defectupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\entities\\defect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\entities\\defect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\entities\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\entities\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\exceptions\\unauthoriedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\exceptions\\unauthoriedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\exceptions\\serverinternalerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\exceptions\\serverinternalerrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|d:\\backend\\andon\\andon\\andon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{568F376B-DE21-4C0D-BBC1-808F62783F72}|ANDON\\ANDON.csproj|solutionrelative:andon\\andon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ReactVina\\my-react-app\\dist\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|d:\\backend\\andon\\andon_infrastructure\\andon_infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3356C3AC-09D7-4919-8B20-3DC3655F00F3}|ANDON_Infrastructure\\ANDON_Infrastructure.csproj|solutionrelative:andon_infrastructure\\andon_infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|d:\\backend\\andon\\andon_domain\\andon_domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DD039C6-6B36-498A-ACF2-5F8AB6D8AB0D}|ANDON_Domain\\ANDON_Domain.csproj|solutionrelative:andon_domain\\andon_domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|d:\\backend\\andon\\andon_application\\andon_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1DE7A8D-1432-45F7-82F7-A777570A246F}|ANDON_Application\\ANDON_Application.csproj|solutionrelative:andon_application\\andon_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefectController.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON\\Controllers\\Defect\\DefectController.cs",
+              "RelativeDocumentMoniker": "ANDON\\Controllers\\Defect\\DefectController.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON\\Controllers\\Defect\\DefectController.cs",
+              "RelativeToolTip": "ANDON\\Controllers\\Defect\\DefectController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:27:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefectRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\Repository\\Defect\\DefectRepository.cs",
+              "RelativeDocumentMoniker": "ANDON_Infrastructure\\Repository\\Defect\\DefectRepository.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\Repository\\Defect\\DefectRepository.cs",
+              "RelativeToolTip": "ANDON_Infrastructure\\Repository\\Defect\\DefectRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:33:54.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ANDON_Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "ANDON_Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:22:21.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "ANDON_Domain\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:29:25.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON\\appsettings.json",
+              "RelativeDocumentMoniker": "ANDON\\appsettings.json",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON\\appsettings.json",
+              "RelativeToolTip": "ANDON\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T02:31:31.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "ANDON\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "ANDON\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:55:23.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\Repository\\Auth\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "ANDON_Infrastructure\\Repository\\Auth\\AuthRepository.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\Repository\\Auth\\AuthRepository.cs",
+              "RelativeToolTip": "ANDON_Infrastructure\\Repository\\Auth\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:38:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRouteRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IRouteRepository.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Interface\\IRouteRepository.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IRouteRepository.cs",
+              "RelativeToolTip": "ANDON_Domain\\Interface\\IRouteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:16:59.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\Token\\JwtRepository.cs",
+              "RelativeDocumentMoniker": "ANDON_Infrastructure\\Token\\JwtRepository.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\Token\\JwtRepository.cs",
+              "RelativeToolTip": "ANDON_Infrastructure\\Token\\JwtRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:56:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\Repository\\Routes\\RouteRepository.cs",
+              "RelativeDocumentMoniker": "ANDON_Infrastructure\\Repository\\Routes\\RouteRepository.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\Repository\\Routes\\RouteRepository.cs",
+              "RelativeToolTip": "ANDON_Infrastructure\\Repository\\Routes\\RouteRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:24:54.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON\\Program.cs",
+              "RelativeDocumentMoniker": "ANDON\\Program.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON\\Program.cs",
+              "RelativeToolTip": "ANDON\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:59:45.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouterPublic.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Consts\\RouterPublic.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Consts\\RouterPublic.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Consts\\RouterPublic.cs",
+              "RelativeToolTip": "ANDON_Domain\\Consts\\RouterPublic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:33:38.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppJwtMiddleware.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Consts\\AppJwtMiddleware.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Consts\\AppJwtMiddleware.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Consts\\AppJwtMiddleware.cs",
+              "RelativeToolTip": "ANDON_Domain\\Consts\\AppJwtMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:34:53.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "ANDON_Domain\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:36:01.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ANDON\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ANDON\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:40:20.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthProfile.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Mapper\\Auth\\AuthProfile.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Mapper\\Auth\\AuthProfile.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Mapper\\Auth\\AuthProfile.cs",
+              "RelativeToolTip": "ANDON_Application\\Mapper\\Auth\\AuthProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:23:08.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDefectRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IDefectRepository.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Interface\\IDefectRepository.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IDefectRepository.cs",
+              "RelativeToolTip": "ANDON_Domain\\Interface\\IDefectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:27:55.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJwtRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IJwtRepository.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Interface\\IJwtRepository.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Interface\\IJwtRepository.cs",
+              "RelativeToolTip": "ANDON_Domain\\Interface\\IJwtRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:54:29.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "ANDON\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "ANDON\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:30:09.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Interface\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Interface\\Auth\\IAuthService.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Interface\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "ANDON_Application\\Interface\\Auth\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:08:15.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Entities\\Route.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\Route.cs",
+              "RelativeToolTip": "ANDON_Domain\\Entities\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:12:28.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RouteController.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON\\Controllers\\Routes\\RouteController.cs",
+              "RelativeDocumentMoniker": "ANDON\\Controllers\\Routes\\RouteController.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON\\Controllers\\Routes\\RouteController.cs",
+              "RelativeToolTip": "ANDON\\Controllers\\Routes\\RouteController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:59:15.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Service\\Routes\\RouteService.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Service\\Routes\\RouteService.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Service\\Routes\\RouteService.cs",
+              "RelativeToolTip": "ANDON_Application\\Service\\Routes\\RouteService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:53:08.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRouteService.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Interface\\Routes\\IRouteService.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Interface\\Routes\\IRouteService.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Interface\\Routes\\IRouteService.cs",
+              "RelativeToolTip": "ANDON_Application\\Interface\\Routes\\IRouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:52:24.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RouteProfile.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Mapper\\Routes\\RouteProfile.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Mapper\\Routes\\RouteProfile.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Mapper\\Routes\\RouteProfile.cs",
+              "RelativeToolTip": "ANDON_Application\\Mapper\\Routes\\RouteProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:53:42.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RouteDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\RouteDTO.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\DTO\\RouteDTO.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\RouteDTO.cs",
+              "RelativeToolTip": "ANDON_Application\\DTO\\RouteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:55:32.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RouteError.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Model\\RouteError.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Model\\RouteError.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Model\\RouteError.cs",
+              "RelativeToolTip": "ANDON_Domain\\Model\\RouteError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:20:42.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Service\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Service\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Service\\Auth\\AuthService.cs",
+              "RelativeToolTip": "ANDON_Application\\Service\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:10:55.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RouteErrorDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\RouteErrorDTO.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\DTO\\RouteErrorDTO.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\RouteErrorDTO.cs",
+              "RelativeToolTip": "ANDON_Application\\DTO\\RouteErrorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:51:47.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DefectProfile.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Mapper\\Defect\\DefectProfile.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Mapper\\Defect\\DefectProfile.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Mapper\\Defect\\DefectProfile.cs",
+              "RelativeToolTip": "ANDON_Application\\Mapper\\Defect\\DefectProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:23:31.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DefectInsert.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Model\\DefectInsert.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Model\\DefectInsert.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Model\\DefectInsert.cs",
+              "RelativeToolTip": "ANDON_Domain\\Model\\DefectInsert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:43:19.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ANDON.http",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON\\ANDON.http",
+              "RelativeDocumentMoniker": "ANDON\\ANDON.http",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON\\ANDON.http",
+              "RelativeToolTip": "ANDON\\ANDON.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-08T11:48:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "ANDON_Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:16:51.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DefectService.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Service\\Defect\\DefectService.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Service\\Defect\\DefectService.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Service\\Defect\\DefectService.cs",
+              "RelativeToolTip": "ANDON_Application\\Service\\Defect\\DefectService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:22:50.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IDefectService.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Interface\\Defect\\IDefectService.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Interface\\Defect\\IDefectService.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Interface\\Defect\\IDefectService.cs",
+              "RelativeToolTip": "ANDON_Application\\Interface\\Defect\\IDefectService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:58:49.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DefectDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\DefectDTO.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\DTO\\DefectDTO.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\DefectDTO.cs",
+              "RelativeToolTip": "ANDON_Application\\DTO\\DefectDTO.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:21:45.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DefectInsertDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\DefectInsertDTO.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\DTO\\DefectInsertDTO.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\DefectInsertDTO.cs",
+              "RelativeToolTip": "ANDON_Application\\DTO\\DefectInsertDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:47:11.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DefectUpdateDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\DefectUpdateDTO.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\DTO\\DefectUpdateDTO.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\DTO\\DefectUpdateDTO.cs",
+              "RelativeToolTip": "ANDON_Application\\DTO\\DefectUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:16:05.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\Errors.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Entities\\Errors.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\Errors.cs",
+              "RelativeToolTip": "ANDON_Domain\\Entities\\Errors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:13:58.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Defect.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\Defect.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Entities\\Defect.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\Defect.cs",
+              "RelativeToolTip": "ANDON_Domain\\Entities\\Defect.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:24:38.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ANDON_Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:10:45.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseException.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\BaseException.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Exceptions\\BaseException.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\BaseException.cs",
+              "RelativeToolTip": "ANDON_Domain\\Exceptions\\BaseException.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:14:16.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseEntities.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\BaseEntities.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Entities\\BaseEntities.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Entities\\BaseEntities.cs",
+              "RelativeToolTip": "ANDON_Domain\\Entities\\BaseEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:16:04.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ServerInternalErrorException.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\ServerInternalErrorException.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Exceptions\\ServerInternalErrorException.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\ServerInternalErrorException.cs",
+              "RelativeToolTip": "ANDON_Domain\\Exceptions\\ServerInternalErrorException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:31:55.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UnauthoriedException.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\UnauthoriedException.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Exceptions\\UnauthoriedException.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\UnauthoriedException.cs",
+              "RelativeToolTip": "ANDON_Domain\\Exceptions\\UnauthoriedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:17:25.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ANDON.csproj",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON\\ANDON.csproj",
+              "RelativeDocumentMoniker": "ANDON\\ANDON.csproj",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON\\ANDON.csproj",
+              "RelativeToolTip": "ANDON\\ANDON.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T07:34:41.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Auth\\LoginDTO.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "ANDON_Application\\Auth\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:06:40.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\Auth\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ANDON_Application\\Auth\\UserDTO.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\Auth\\UserDTO.cs",
+              "RelativeToolTip": "ANDON_Application\\Auth\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:07:08.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "ANDON_Domain\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "ANDON_Domain\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T03:16:12.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ANDON_Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\ANDON_Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ANDON_Infrastructure\\ANDON_Infrastructure.csproj",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Infrastructure\\ANDON_Infrastructure.csproj",
+              "RelativeToolTip": "ANDON_Infrastructure\\ANDON_Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T02:18:24.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ANDON_Domain.csproj",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Domain\\ANDON_Domain.csproj",
+              "RelativeDocumentMoniker": "ANDON_Domain\\ANDON_Domain.csproj",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Domain\\ANDON_Domain.csproj",
+              "RelativeToolTip": "ANDON_Domain\\ANDON_Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T02:10:15.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ANDON_Application.csproj",
+              "DocumentMoniker": "D:\\Backend\\ANDON\\ANDON_Application\\ANDON_Application.csproj",
+              "RelativeDocumentMoniker": "ANDON_Application\\ANDON_Application.csproj",
+              "ToolTip": "D:\\Backend\\ANDON\\ANDON_Application\\ANDON_Application.csproj",
+              "RelativeToolTip": "ANDON_Application\\ANDON_Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T03:11:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\ReactVina\\my-react-app\\dist\\web.config",
+              "RelativeDocumentMoniker": "..\\..\\ReactVina\\my-react-app\\dist\\web.config",
+              "ToolTip": "D:\\ReactVina\\my-react-app\\dist\\web.config",
+              "RelativeToolTip": "..\\..\\ReactVina\\my-react-app\\dist\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-11T06:57:54.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

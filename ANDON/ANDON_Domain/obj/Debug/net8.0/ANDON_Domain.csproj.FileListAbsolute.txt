@@ -1,0 +1,11 @@
+D:\Backend\ANDON\ANDON_Domain\obj\Debug\net8.0\ANDON_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\ANDON\ANDON_Domain\obj\Debug\net8.0\ANDON_Domain.AssemblyInfoInputs.cache
+D:\Backend\ANDON\ANDON_Domain\obj\Debug\net8.0\ANDON_Domain.AssemblyInfo.cs
+D:\Backend\ANDON\ANDON_Domain\obj\Debug\net8.0\ANDON_Domain.csproj.CoreCompileInputs.cache
+D:\Backend\ANDON\ANDON_Domain\bin\Debug\net8.0\ANDON_Domain.deps.json
+D:\Backend\ANDON\ANDON_Domain\bin\Debug\net8.0\ANDON_Domain.dll
+D:\Backend\ANDON\ANDON_Domain\bin\Debug\net8.0\ANDON_Domain.pdb
+D:\Backend\ANDON\ANDON_Domain\obj\Debug\net8.0\ANDON_Domain.dll
+D:\Backend\ANDON\ANDON_Domain\obj\Debug\net8.0\refint\ANDON_Domain.dll
+D:\Backend\ANDON\ANDON_Domain\obj\Debug\net8.0\ANDON_Domain.pdb
+D:\Backend\ANDON\ANDON_Domain\obj\Debug\net8.0\ref\ANDON_Domain.dll

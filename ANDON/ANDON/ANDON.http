@@ -1,0 +1,6 @@
+@ANDON_HostAddress = http://localhost:5139
+
+GET {{ANDON_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
